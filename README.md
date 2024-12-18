@@ -1,2 +1,43 @@
-# AdaH-iOS
-AdaH An app for investing in digital files and services efficiently
+# AdaH
+
+**AdaH** هو تطبيق استثمار للملفات الرقمية والخدمات، يهدف إلى تسهيل إدارة واستثمار هذه الملفات بطريقة فعالة وسهلة.
+
+## Features
+- استثمار في الملفات الرقمية
+- دعم متكامل للخدمات بيع و شراء 
+- تصميم واجهة مستخدم بسيطة وسهل الاستخدام
+
+---
+
+## Installation Guide (IPA)
+
+### Requirements
+- جهاز iPhone/iPad بنظام iOS 17 أو أحدث
+- برنامج [AltStore](https://altstore.io) أو أداة مشابهة لتثبيت ملفات IPA
+
+### Steps to Install:
+1. **Download the IPA File**  
+   حمل ملف **AdaH.ipa** من الرابط التالي: [رابط التحميل هنا]
+
+2. **Install AltStore** (إذا لم يكن مثبتًا):  
+   - قم بتحميل وتثبيت AltStore من [الموقع الرسمي](https://altstore.io) 
+   - اتبع الإرشادات لتثبيته على جهازك.
+
+3. **Install AdaH Using AltStore**:  
+   - افتح AltStore على جهازك 
+   - اضغط على الزر "+" في الزاوية العلوية اليسرى 
+   - اختر ملف **AdaH.ipa** الذي تم تحميله 
+   - انتظر حتى تكتمل عملية التثبيت
+     
+4. **Trust the App**:  
+   - اذهب إلى **Settings > General > Device Management** 
+   - اضغط على ملف المطور الخاص بـ **AdaH** واختر **Trust**
+
+5. **Open AdaH**:  
+   - بعد اكتمال التثبيت، افتح التطبيق واستمتع باستخدامه
+
+---
+
+## Support
+إذا واجهت أي مشاكل أثناء التثبيت أو الاستخدام، لا تتردد في التواصل معنا عبر:  
+- **Email**: Flaaah777@gmail.com
